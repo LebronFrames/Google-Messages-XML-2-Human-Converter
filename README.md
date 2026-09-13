@@ -77,7 +77,7 @@ If PowerShell prevents scripts from running, enter:
 ```powershell
 Set-ExecutionPolicy -Scope Process Bypass
 ```
-![Step 1](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step1.png)
+![Step 1](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step1.png)
 
 If prompted to confirm, enter:
 
@@ -92,7 +92,7 @@ Then run:
 ```powershell
 & "C:\Users\username\Downloads\Google Messages XML 2 Human Converter.ps1"
 ```
-![Step 2](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step2.png)
+![Step 2](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step2.png)
 
 ---
 
@@ -114,11 +114,11 @@ C:\Users\username\Downloads\messages_backup.xml
 
 If the path contains spaces, you can paste it normally.
 
-![Step 3A](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step3A.png)
+![Step 3A](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step3A.png)
 
 OR
 
-![Step 3B](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step3B.png)
+![Step 3B](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step3B.png)
 
 ---
 
@@ -166,7 +166,7 @@ Backup owner's phone number: (202) 555-0100
 
 The backup owner should always be entered first.
 
-![Step 4](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step4.png)
+![Step 4](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step4.png)
 
 ---
 
@@ -209,7 +209,7 @@ U.S. phone numbers may be entered with or without:
 
 The script normalizes them automatically.
 
-![Step 5](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step5.png)
+![Step 5](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step5.png)
 
 ---
 
@@ -249,7 +249,7 @@ Output HTML path [C:\Users\username\Downloads\Jane_John.html]:
 
 Press Enter to use the suggested path, or type a different full path.
 
-![Step 6](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step6.png)
+![Step 6](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step6.png)
 
 ---
 
@@ -277,7 +277,7 @@ n
 
 to create the HTML without extracting media.
 
-![Step 7](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step7.png)
+![Step 7](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step7.png)
 
 ---
 
@@ -333,7 +333,7 @@ The percentage is based on how far the script has read through the XML file.
 
 For very large backups, the scan may still take some time, but the progress bar provides an estimate of how much of the file has been processed.
 
-![Step 8](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step8.png)
+![Step 8](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step8.png)
 
 ---
 
@@ -357,7 +357,7 @@ It then asks:
 ```text
 Open the HTML now? [Y/n]
 ```
-![Step 9](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Step9.png)
+![Step 9](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step9.png)
 
 Press Enter or type:
 
@@ -379,7 +379,7 @@ to finish without opening it.
 
 ## What the HTML includes
 
-![Step 10](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/StepFINAL.png)
+![Step 10](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/StepFINAL.png)
 
 The generated HTML includes:
 
