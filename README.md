@@ -66,7 +66,7 @@ The XML backup can be stored anywhere. For this example walkthrough, it will be 
 
 Open PowerShell.
 
-The terminal prompt should looks similar to:
+The terminal prompt should look similar to:
 
 ```text
 PS C:\Users\username>
