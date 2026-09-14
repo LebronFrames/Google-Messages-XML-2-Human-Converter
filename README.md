@@ -34,7 +34,7 @@ The converter streams the XML instead of loading the entire file into memory, wh
 - An XML backup created by [SMS Backup & Restore](https://play.google.com/store/apps/details?id=all.backup.restore&hl=en-US&pli=1) 
 - `Google Messages XML 2 Human Converter.ps1`
 
-Example script filename:
+Script filename:
 
 ```text
 Google Messages XML 2 Human Converter.ps1
@@ -58,7 +58,7 @@ Example:
 C:\Users\username\Downloads\Google Messages XML 2 Human Converter.ps1
 ```
 
-The XML backup can be stored anywhere. The script will ask you for its full path when it starts. This can either be typed out or drag n dropped into the PowerShell window.
+The XML backup can be stored anywhere. For this example walkthrough, it will be stored in the Downloads folder. The script will ask you for its full file path when it starts. This can either be typed out or drag n' dropped into the PowerShell window.
 
 ---
 
@@ -66,7 +66,7 @@ The XML backup can be stored anywhere. The script will ask you for its full path
 
 Open PowerShell.
 
-It is fine if the prompt looks similar to:
+The terminal prompt should looks similar to:
 
 ```text
 PS C:\Users\username>
@@ -85,7 +85,7 @@ If prompted to confirm, enter:
 Y
 ```
 
-This only changes the execution policy for the current PowerShell window.
+This only changes the execution policy for the **current** PowerShell window.
 
 Then run:
 
@@ -112,7 +112,7 @@ Example:
 C:\Users\username\Downloads\messages_backup.xml
 ```
 
-If the path contains spaces, you can paste it normally.
+If the path contains spaces, it will still work; you can paste it normally.
 
 ![Step 3A](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step3A.png)
 
@@ -207,7 +207,7 @@ U.S. phone numbers may be entered with or without:
 - parentheses
 - hyphens
 
-The script normalizes them automatically.
+The script will normalize them automatically.
 
 ![Step 5](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step5.png)
 
@@ -247,7 +247,7 @@ The script will ask:
 Output HTML path [C:\Users\username\Downloads\Jane_John.html]:
 ```
 
-Press Enter to use the suggested path, or type a different full path.
+Press Enter to use the `[suggested path]`, or type a different full path.
 
 ![Step 6](https://github.com/LebronFrames/Google-Messages-XML-2-Human-Converter/blob/main/Images/Step6.png)
 
