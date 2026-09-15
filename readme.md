@@ -1,7 +1,6 @@
 # Google Messages XML 2 Human Converter
 
 **Version 2 Alpha**  
-Created by [Lebron Frames](https://github.com/LebronFrames?tab=repositories)
 
 ## What this app does
 
